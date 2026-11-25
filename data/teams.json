@@ -1,0 +1,1466 @@
+{
+  "sport": "cfb",
+  "season": "2026",
+  "espn_season": 2026,
+  "standings": "https://www.ncaa.com/standings/football/fbs",
+  "teams": {
+    "air-force": {
+      "name": "Air Force Falcons",
+      "conference": "Mountain West",
+      "ncaa_school": "https://www.ncaa.com/schools/air-force",
+      "espn_id": "2005",
+      "aliases": [
+        "Air Force",
+        "Air Force Falcons"
+      ]
+    },
+    "akron": {
+      "name": "Akron Zips",
+      "conference": "MAC",
+      "ncaa_school": "https://www.ncaa.com/schools/akron",
+      "espn_id": "2006",
+      "aliases": [
+        "Akron",
+        "Akron Zips"
+      ]
+    },
+    "alabama": {
+      "name": "Alabama Crimson Tide",
+      "conference": "SEC",
+      "ncaa_school": "https://www.ncaa.com/schools/alabama",
+      "espn_id": "333",
+      "aliases": [
+        "Alabama",
+        "Alabama Crimson Tide"
+      ]
+    },
+    "appalachian-st": {
+      "name": "App State Mountaineers",
+      "conference": "Sun Belt",
+      "ncaa_school": "https://www.ncaa.com/schools/appalachian-st",
+      "espn_id": "2026",
+      "aliases": [
+        "App State",
+        "App State Mountaineers"
+      ]
+    },
+    "arizona": {
+      "name": "Arizona Wildcats",
+      "conference": "Big 12",
+      "ncaa_school": "https://www.ncaa.com/schools/arizona",
+      "espn_id": "12",
+      "aliases": [
+        "Arizona",
+        "Arizona Wildcats"
+      ]
+    },
+    "arizona-st": {
+      "name": "Arizona State Sun Devils",
+      "conference": "Big 12",
+      "ncaa_school": "https://www.ncaa.com/schools/arizona-st",
+      "espn_id": "9",
+      "aliases": [
+        "Arizona St",
+        "Arizona St.",
+        "Arizona State",
+        "Arizona State Sun Devils"
+      ]
+    },
+    "arkansas": {
+      "name": "Arkansas Razorbacks",
+      "conference": "SEC",
+      "ncaa_school": "https://www.ncaa.com/schools/arkansas",
+      "espn_id": "8",
+      "aliases": [
+        "Arkansas",
+        "Arkansas Razorbacks"
+      ]
+    },
+    "arkansas-st": {
+      "name": "Arkansas State Red Wolves",
+      "conference": "Sun Belt",
+      "ncaa_school": "https://www.ncaa.com/schools/arkansas-st",
+      "espn_id": "2032",
+      "aliases": [
+        "Arkansas St",
+        "Arkansas St.",
+        "Arkansas State",
+        "Arkansas State Red Wolves"
+      ]
+    },
+    "army": {
+      "name": "Army Black Knights",
+      "conference": "American",
+      "ncaa_school": "https://www.ncaa.com/schools/army",
+      "espn_id": "349",
+      "aliases": [
+        "Army",
+        "Army Black Knights",
+        "Army West Point"
+      ]
+    },
+    "auburn": {
+      "name": "Auburn Tigers",
+      "conference": "SEC",
+      "ncaa_school": "https://www.ncaa.com/schools/auburn",
+      "espn_id": "2",
+      "aliases": [
+        "Auburn",
+        "Auburn Tigers"
+      ]
+    },
+    "ball-st": {
+      "name": "Ball State Cardinals",
+      "conference": "MAC",
+      "ncaa_school": "https://www.ncaa.com/schools/ball-st",
+      "espn_id": "2050",
+      "aliases": [
+        "Ball St.",
+        "Ball State",
+        "Ball State Cardinals"
+      ]
+    },
+    "baylor": {
+      "name": "Baylor Bears",
+      "conference": "Big 12",
+      "ncaa_school": "https://www.ncaa.com/schools/baylor",
+      "espn_id": "239",
+      "aliases": [
+        "Baylor",
+        "Baylor Bears"
+      ]
+    },
+    "boise-st": {
+      "name": "Boise State Broncos",
+      "conference": "Pac-12",
+      "ncaa_school": "https://www.ncaa.com/schools/boise-st",
+      "espn_id": "68",
+      "aliases": [
+        "Boise St",
+        "Boise St.",
+        "Boise State",
+        "Boise State Broncos"
+      ]
+    },
+    "boston-college": {
+      "name": "Boston College Eagles",
+      "conference": "ACC",
+      "ncaa_school": "https://www.ncaa.com/schools/boston-college",
+      "espn_id": "103",
+      "aliases": [
+        "Boston College",
+        "Boston College Eagles"
+      ]
+    },
+    "bowling-green": {
+      "name": "Bowling Green Falcons",
+      "conference": "MAC",
+      "ncaa_school": "https://www.ncaa.com/schools/bowling-green",
+      "espn_id": "189",
+      "aliases": [
+        "Bowling Green",
+        "Bowling Green Falcons"
+      ]
+    },
+    "buffalo": {
+      "name": "Buffalo Bulls",
+      "conference": "MAC",
+      "ncaa_school": "https://www.ncaa.com/schools/buffalo",
+      "espn_id": "2084",
+      "aliases": [
+        "Buffalo",
+        "Buffalo Bulls"
+      ]
+    },
+    "byu": {
+      "name": "BYU Cougars",
+      "conference": "Big 12",
+      "ncaa_school": "https://www.ncaa.com/schools/byu",
+      "espn_id": "252",
+      "aliases": [
+        "BYU",
+        "BYU Cougars"
+      ]
+    },
+    "california": {
+      "name": "California Golden Bears",
+      "conference": "ACC",
+      "ncaa_school": "https://www.ncaa.com/schools/california",
+      "espn_id": "25",
+      "aliases": [
+        "California",
+        "California Golden Bears"
+      ]
+    },
+    "central-mich": {
+      "name": "Central Michigan Chippewas",
+      "conference": "MAC",
+      "ncaa_school": "https://www.ncaa.com/schools/central-mich",
+      "espn_id": "2117",
+      "aliases": [
+        "C Michigan",
+        "Central Mich.",
+        "Central Michigan",
+        "Central Michigan Chippewas"
+      ]
+    },
+    "charlotte": {
+      "name": "Charlotte 49ers",
+      "conference": "American",
+      "ncaa_school": "https://www.ncaa.com/schools/charlotte",
+      "espn_id": "2429",
+      "aliases": [
+        "Charlotte",
+        "Charlotte 49ers"
+      ]
+    },
+    "cincinnati": {
+      "name": "Cincinnati Bearcats",
+      "conference": "Big 12",
+      "ncaa_school": "https://www.ncaa.com/schools/cincinnati",
+      "espn_id": "2132",
+      "aliases": [
+        "Cincinnati",
+        "Cincinnati Bearcats"
+      ]
+    },
+    "clemson": {
+      "name": "Clemson Tigers",
+      "conference": "ACC",
+      "ncaa_school": "https://www.ncaa.com/schools/clemson",
+      "espn_id": "228",
+      "aliases": [
+        "Clemson",
+        "Clemson Tigers"
+      ]
+    },
+    "coastal-caro": {
+      "name": "Coastal Carolina Chanticleers",
+      "conference": "Sun Belt",
+      "ncaa_school": "https://www.ncaa.com/schools/coastal-caro",
+      "espn_id": "324",
+      "aliases": [
+        "Coastal",
+        "Coastal Carolina",
+        "Coastal Carolina Chanticleers"
+      ]
+    },
+    "colorado": {
+      "name": "Colorado Buffaloes",
+      "conference": "Big 12",
+      "ncaa_school": "https://www.ncaa.com/schools/colorado",
+      "espn_id": "38",
+      "aliases": [
+        "Colorado",
+        "Colorado Buffaloes"
+      ]
+    },
+    "colorado-st": {
+      "name": "Colorado State Rams",
+      "conference": "Pac-12",
+      "ncaa_school": "https://www.ncaa.com/schools/colorado-st",
+      "espn_id": "36",
+      "aliases": [
+        "Colorado St",
+        "Colorado St.",
+        "Colorado State",
+        "Colorado State Rams"
+      ]
+    },
+    "delaware": {
+      "name": "Delaware Blue Hens",
+      "conference": "CUSA",
+      "ncaa_school": "https://www.ncaa.com/schools/delaware",
+      "espn_id": "48",
+      "aliases": [
+        "Delaware",
+        "Delaware Blue Hens"
+      ]
+    },
+    "duke": {
+      "name": "Duke Blue Devils",
+      "conference": "ACC",
+      "ncaa_school": "https://www.ncaa.com/schools/duke",
+      "espn_id": "150",
+      "aliases": [
+        "Duke",
+        "Duke Blue Devils"
+      ]
+    },
+    "east-carolina": {
+      "name": "East Carolina Pirates",
+      "conference": "American",
+      "ncaa_school": "https://www.ncaa.com/schools/east-carolina",
+      "espn_id": "151",
+      "aliases": [
+        "East Carolina",
+        "East Carolina Pirates"
+      ]
+    },
+    "eastern-mich": {
+      "name": "Eastern Michigan Eagles",
+      "conference": "MAC",
+      "ncaa_school": "https://www.ncaa.com/schools/eastern-mich",
+      "espn_id": "2199",
+      "aliases": [
+        "E Michigan",
+        "Eastern Mich.",
+        "Eastern Michigan",
+        "Eastern Michigan Eagles"
+      ]
+    },
+    "fiu": {
+      "name": "Florida International Panthers",
+      "conference": "CUSA",
+      "ncaa_school": "https://www.ncaa.com/schools/fiu",
+      "espn_id": "2229",
+      "aliases": [
+        "FIU",
+        "Florida International",
+        "Florida International Panthers"
+      ]
+    },
+    "fla-atlantic": {
+      "name": "Florida Atlantic Owls",
+      "conference": "American",
+      "ncaa_school": "https://www.ncaa.com/schools/fla-atlantic",
+      "espn_id": "2226",
+      "aliases": [
+        "FAU",
+        "Fla. Atlantic",
+        "Florida Atlantic",
+        "Florida Atlantic Owls"
+      ]
+    },
+    "florida": {
+      "name": "Florida Gators",
+      "conference": "SEC",
+      "ncaa_school": "https://www.ncaa.com/schools/florida",
+      "espn_id": "57",
+      "aliases": [
+        "Florida",
+        "Florida Gators"
+      ]
+    },
+    "florida-st": {
+      "name": "Florida State Seminoles",
+      "conference": "ACC",
+      "ncaa_school": "https://www.ncaa.com/schools/florida-st",
+      "espn_id": "52",
+      "aliases": [
+        "Florida St",
+        "Florida St.",
+        "Florida State",
+        "Florida State Seminoles"
+      ]
+    },
+    "fresno-st": {
+      "name": "Fresno State Bulldogs",
+      "conference": "Pac-12",
+      "ncaa_school": "https://www.ncaa.com/schools/fresno-st",
+      "espn_id": "278",
+      "aliases": [
+        "Fresno St",
+        "Fresno St.",
+        "Fresno State",
+        "Fresno State Bulldogs"
+      ]
+    },
+    "ga-southern": {
+      "name": "Georgia Southern Eagles",
+      "conference": "Sun Belt",
+      "ncaa_school": "https://www.ncaa.com/schools/ga-southern",
+      "espn_id": "290",
+      "aliases": [
+        "GA Southern",
+        "Ga. Southern",
+        "Georgia Southern",
+        "Georgia Southern Eagles"
+      ]
+    },
+    "georgia": {
+      "name": "Georgia Bulldogs",
+      "conference": "SEC",
+      "ncaa_school": "https://www.ncaa.com/schools/georgia",
+      "espn_id": "61",
+      "aliases": [
+        "Georgia",
+        "Georgia Bulldogs"
+      ]
+    },
+    "georgia-st": {
+      "name": "Georgia State Panthers",
+      "conference": "Sun Belt",
+      "ncaa_school": "https://www.ncaa.com/schools/georgia-st",
+      "espn_id": "2247",
+      "aliases": [
+        "Georgia St",
+        "Georgia St.",
+        "Georgia State",
+        "Georgia State Panthers"
+      ]
+    },
+    "georgia-tech": {
+      "name": "Georgia Tech Yellow Jackets",
+      "conference": "ACC",
+      "ncaa_school": "https://www.ncaa.com/schools/georgia-tech",
+      "espn_id": "59",
+      "aliases": [
+        "Georgia Tech",
+        "Georgia Tech Yellow Jackets"
+      ]
+    },
+    "hawaii": {
+      "name": "Hawai'i Rainbow Warriors",
+      "conference": "Mountain West",
+      "ncaa_school": "https://www.ncaa.com/schools/hawaii",
+      "espn_id": "62",
+      "aliases": [
+        "Hawai'i",
+        "Hawai'i Rainbow Warriors",
+        "Hawaii"
+      ]
+    },
+    "houston": {
+      "name": "Houston Cougars",
+      "conference": "Big 12",
+      "ncaa_school": "https://www.ncaa.com/schools/houston",
+      "espn_id": "248",
+      "aliases": [
+        "Houston",
+        "Houston Cougars"
+      ]
+    },
+    "illinois": {
+      "name": "Illinois Fighting Illini",
+      "conference": "Big Ten",
+      "ncaa_school": "https://www.ncaa.com/schools/illinois",
+      "espn_id": "356",
+      "aliases": [
+        "Illinois",
+        "Illinois Fighting Illini"
+      ]
+    },
+    "indiana": {
+      "name": "Indiana Hoosiers",
+      "conference": "Big Ten",
+      "ncaa_school": "https://www.ncaa.com/schools/indiana",
+      "espn_id": "84",
+      "aliases": [
+        "Indiana",
+        "Indiana Hoosiers"
+      ]
+    },
+    "iowa": {
+      "name": "Iowa Hawkeyes",
+      "conference": "Big Ten",
+      "ncaa_school": "https://www.ncaa.com/schools/iowa",
+      "espn_id": "2294",
+      "aliases": [
+        "Iowa",
+        "Iowa Hawkeyes"
+      ]
+    },
+    "iowa-st": {
+      "name": "Iowa State Cyclones",
+      "conference": "Big 12",
+      "ncaa_school": "https://www.ncaa.com/schools/iowa-st",
+      "espn_id": "66",
+      "aliases": [
+        "Iowa St.",
+        "Iowa State",
+        "Iowa State Cyclones"
+      ]
+    },
+    "jacksonville-st": {
+      "name": "Jacksonville State Gamecocks",
+      "conference": "CUSA",
+      "ncaa_school": "https://www.ncaa.com/schools/jacksonville-st",
+      "espn_id": "55",
+      "aliases": [
+        "Jacksonville St.",
+        "Jacksonville State",
+        "Jacksonville State Gamecocks",
+        "Jax State"
+      ]
+    },
+    "james-madison": {
+      "name": "James Madison Dukes",
+      "conference": "Sun Belt",
+      "ncaa_school": "https://www.ncaa.com/schools/james-madison",
+      "espn_id": "256",
+      "aliases": [
+        "James Madison",
+        "James Madison Dukes"
+      ]
+    },
+    "kansas": {
+      "name": "Kansas Jayhawks",
+      "conference": "Big 12",
+      "ncaa_school": "https://www.ncaa.com/schools/kansas",
+      "espn_id": "2305",
+      "aliases": [
+        "Kansas",
+        "Kansas Jayhawks"
+      ]
+    },
+    "kansas-st": {
+      "name": "Kansas State Wildcats",
+      "conference": "Big 12",
+      "ncaa_school": "https://www.ncaa.com/schools/kansas-st",
+      "espn_id": "2306",
+      "aliases": [
+        "Kansas St",
+        "Kansas St.",
+        "Kansas State",
+        "Kansas State Wildcats"
+      ]
+    },
+    "kennesaw-st": {
+      "name": "Kennesaw State Owls",
+      "conference": "CUSA",
+      "ncaa_school": "https://www.ncaa.com/schools/kennesaw-st",
+      "espn_id": "338",
+      "aliases": [
+        "Kennesaw St",
+        "Kennesaw St.",
+        "Kennesaw State",
+        "Kennesaw State Owls"
+      ]
+    },
+    "kent-st": {
+      "name": "Kent State Golden Flashes",
+      "conference": "MAC",
+      "ncaa_school": "https://www.ncaa.com/schools/kent-st",
+      "espn_id": "2309",
+      "aliases": [
+        "Kent St.",
+        "Kent State",
+        "Kent State Golden Flashes"
+      ]
+    },
+    "kentucky": {
+      "name": "Kentucky Wildcats",
+      "conference": "SEC",
+      "ncaa_school": "https://www.ncaa.com/schools/kentucky",
+      "espn_id": "96",
+      "aliases": [
+        "Kentucky",
+        "Kentucky Wildcats"
+      ]
+    },
+    "la-lafayette": {
+      "name": "Louisiana Ragin' Cajuns",
+      "conference": "Sun Belt",
+      "ncaa_school": "https://www.ncaa.com/schools/la-lafayette",
+      "espn_id": "309",
+      "aliases": [
+        "Louisiana",
+        "Louisiana Ragin' Cajuns"
+      ]
+    },
+    "la-monroe": {
+      "name": "UL Monroe Warhawks",
+      "conference": "Sun Belt",
+      "ncaa_school": "https://www.ncaa.com/schools/la-monroe",
+      "espn_id": "2433",
+      "aliases": [
+        "UL Monroe",
+        "UL Monroe Warhawks",
+        "ULM"
+      ]
+    },
+    "liberty": {
+      "name": "Liberty Flames",
+      "conference": "CUSA",
+      "ncaa_school": "https://www.ncaa.com/schools/liberty",
+      "espn_id": "2335",
+      "aliases": [
+        "Liberty",
+        "Liberty Flames"
+      ]
+    },
+    "louisiana-tech": {
+      "name": "Louisiana Tech Bulldogs",
+      "conference": "Sun Belt",
+      "ncaa_school": "https://www.ncaa.com/schools/louisiana-tech",
+      "espn_id": "2348",
+      "aliases": [
+        "Louisiana Tech",
+        "Louisiana Tech Bulldogs"
+      ]
+    },
+    "louisville": {
+      "name": "Louisville Cardinals",
+      "conference": "ACC",
+      "ncaa_school": "https://www.ncaa.com/schools/louisville",
+      "espn_id": "97",
+      "aliases": [
+        "Louisville",
+        "Louisville Cardinals"
+      ]
+    },
+    "lsu": {
+      "name": "LSU Tigers",
+      "conference": "SEC",
+      "ncaa_school": "https://www.ncaa.com/schools/lsu",
+      "espn_id": "99",
+      "aliases": [
+        "LSU",
+        "LSU Tigers"
+      ]
+    },
+    "marshall": {
+      "name": "Marshall Thundering Herd",
+      "conference": "Sun Belt",
+      "ncaa_school": "https://www.ncaa.com/schools/marshall",
+      "espn_id": "276",
+      "aliases": [
+        "Marshall",
+        "Marshall Thundering Herd"
+      ]
+    },
+    "maryland": {
+      "name": "Maryland Terrapins",
+      "conference": "Big Ten",
+      "ncaa_school": "https://www.ncaa.com/schools/maryland",
+      "espn_id": "120",
+      "aliases": [
+        "Maryland",
+        "Maryland Terrapins"
+      ]
+    },
+    "massachusetts": {
+      "name": "Massachusetts Minutemen",
+      "conference": "MAC",
+      "ncaa_school": "https://www.ncaa.com/schools/massachusetts",
+      "espn_id": "113",
+      "aliases": [
+        "Massachusetts",
+        "Massachusetts Minutemen",
+        "UMass"
+      ]
+    },
+    "memphis": {
+      "name": "Memphis Tigers",
+      "conference": "American",
+      "ncaa_school": "https://www.ncaa.com/schools/memphis",
+      "espn_id": "235",
+      "aliases": [
+        "Memphis",
+        "Memphis Tigers"
+      ]
+    },
+    "miami-fl": {
+      "name": "Miami Hurricanes",
+      "conference": "ACC",
+      "ncaa_school": "https://www.ncaa.com/schools/miami-fl",
+      "espn_id": "2390",
+      "aliases": [
+        "Miami",
+        "Miami (FL)",
+        "Miami Hurricanes"
+      ]
+    },
+    "miami-oh": {
+      "name": "Miami (OH) RedHawks",
+      "conference": "MAC",
+      "ncaa_school": "https://www.ncaa.com/schools/miami-oh",
+      "espn_id": "193",
+      "aliases": [
+        "Miami (OH)",
+        "Miami (OH) RedHawks",
+        "Miami OH"
+      ]
+    },
+    "michigan": {
+      "name": "Michigan Wolverines",
+      "conference": "Big Ten",
+      "ncaa_school": "https://www.ncaa.com/schools/michigan",
+      "espn_id": "130",
+      "aliases": [
+        "Michigan",
+        "Michigan Wolverines"
+      ]
+    },
+    "michigan-st": {
+      "name": "Michigan State Spartans",
+      "conference": "Big Ten",
+      "ncaa_school": "https://www.ncaa.com/schools/michigan-st",
+      "espn_id": "127",
+      "aliases": [
+        "Michigan St",
+        "Michigan St.",
+        "Michigan State",
+        "Michigan State Spartans"
+      ]
+    },
+    "middle-tenn": {
+      "name": "Middle Tennessee Blue Raiders",
+      "conference": "CUSA",
+      "ncaa_school": "https://www.ncaa.com/schools/middle-tenn",
+      "espn_id": "2393",
+      "aliases": [
+        "MTSU",
+        "Middle Tenn.",
+        "Middle Tennessee",
+        "Middle Tennessee Blue Raiders"
+      ]
+    },
+    "minnesota": {
+      "name": "Minnesota Golden Gophers",
+      "conference": "Big Ten",
+      "ncaa_school": "https://www.ncaa.com/schools/minnesota",
+      "espn_id": "135",
+      "aliases": [
+        "Minnesota",
+        "Minnesota Golden Gophers"
+      ]
+    },
+    "mississippi-st": {
+      "name": "Mississippi State Bulldogs",
+      "conference": "SEC",
+      "ncaa_school": "https://www.ncaa.com/schools/mississippi-st",
+      "espn_id": "344",
+      "aliases": [
+        "Mississippi St",
+        "Mississippi St.",
+        "Mississippi State",
+        "Mississippi State Bulldogs"
+      ]
+    },
+    "missouri": {
+      "name": "Missouri Tigers",
+      "conference": "SEC",
+      "ncaa_school": "https://www.ncaa.com/schools/missouri",
+      "espn_id": "142",
+      "aliases": [
+        "Missouri",
+        "Missouri Tigers"
+      ]
+    },
+    "missouri-st": {
+      "name": "Missouri State Bears",
+      "conference": "CUSA",
+      "ncaa_school": "https://www.ncaa.com/schools/missouri-st",
+      "espn_id": "2623",
+      "aliases": [
+        "Missouri St",
+        "Missouri St.",
+        "Missouri State",
+        "Missouri State Bears"
+      ]
+    },
+    "navy": {
+      "name": "Navy Midshipmen",
+      "conference": "American",
+      "ncaa_school": "https://www.ncaa.com/schools/navy",
+      "espn_id": "2426",
+      "aliases": [
+        "Navy",
+        "Navy Midshipmen"
+      ]
+    },
+    "nebraska": {
+      "name": "Nebraska Cornhuskers",
+      "conference": "Big Ten",
+      "ncaa_school": "https://www.ncaa.com/schools/nebraska",
+      "espn_id": "158",
+      "aliases": [
+        "Nebraska",
+        "Nebraska Cornhuskers"
+      ]
+    },
+    "nevada": {
+      "name": "Nevada Wolf Pack",
+      "conference": "Mountain West",
+      "ncaa_school": "https://www.ncaa.com/schools/nevada",
+      "espn_id": "2440",
+      "aliases": [
+        "Nevada",
+        "Nevada Wolf Pack"
+      ]
+    },
+    "new-mexico": {
+      "name": "New Mexico Lobos",
+      "conference": "Mountain West",
+      "ncaa_school": "https://www.ncaa.com/schools/new-mexico",
+      "espn_id": "167",
+      "aliases": [
+        "New Mexico",
+        "New Mexico Lobos"
+      ]
+    },
+    "new-mexico-st": {
+      "name": "New Mexico State Aggies",
+      "conference": "CUSA",
+      "ncaa_school": "https://www.ncaa.com/schools/new-mexico-st",
+      "espn_id": "166",
+      "aliases": [
+        "New Mexico St",
+        "New Mexico St.",
+        "New Mexico State",
+        "New Mexico State Aggies"
+      ]
+    },
+    "north-carolina": {
+      "name": "North Carolina Tar Heels",
+      "conference": "ACC",
+      "ncaa_school": "https://www.ncaa.com/schools/north-carolina",
+      "espn_id": "153",
+      "aliases": [
+        "North Carolina",
+        "North Carolina Tar Heels"
+      ]
+    },
+    "north-carolina-st": {
+      "name": "NC State Wolfpack",
+      "conference": "ACC",
+      "ncaa_school": "https://www.ncaa.com/schools/north-carolina-st",
+      "espn_id": "152",
+      "aliases": [
+        "NC State",
+        "NC State Wolfpack"
+      ]
+    },
+    "north-dakota-st": {
+      "name": "North Dakota State Bison",
+      "conference": "Mountain West",
+      "ncaa_school": "https://www.ncaa.com/schools/north-dakota-st",
+      "espn_id": "2449",
+      "aliases": [
+        "N Dakota St",
+        "North Dakota St.",
+        "North Dakota State",
+        "North Dakota State Bison"
+      ]
+    },
+    "north-texas": {
+      "name": "North Texas Mean Green",
+      "conference": "American",
+      "ncaa_school": "https://www.ncaa.com/schools/north-texas",
+      "espn_id": "249",
+      "aliases": [
+        "North Texas",
+        "North Texas Mean Green"
+      ]
+    },
+    "northern-ill": {
+      "name": "Northern Illinois Huskies",
+      "conference": "Mountain West",
+      "ncaa_school": "https://www.ncaa.com/schools/northern-ill",
+      "espn_id": "2459",
+      "aliases": [
+        "N Illinois",
+        "NIU",
+        "Northern Illinois",
+        "Northern Illinois Huskies"
+      ]
+    },
+    "northwestern": {
+      "name": "Northwestern Wildcats",
+      "conference": "Big Ten",
+      "ncaa_school": "https://www.ncaa.com/schools/northwestern",
+      "espn_id": "77",
+      "aliases": [
+        "Northwestern",
+        "Northwestern Wildcats"
+      ]
+    },
+    "notre-dame": {
+      "name": "Notre Dame Fighting Irish",
+      "conference": "FBS Independent",
+      "ncaa_school": "https://www.ncaa.com/schools/notre-dame",
+      "espn_id": "87",
+      "aliases": [
+        "Notre Dame",
+        "Notre Dame Fighting Irish"
+      ]
+    },
+    "ohio": {
+      "name": "Ohio Bobcats",
+      "conference": "MAC",
+      "ncaa_school": "https://www.ncaa.com/schools/ohio",
+      "espn_id": "195",
+      "aliases": [
+        "Ohio",
+        "Ohio Bobcats"
+      ]
+    },
+    "ohio-st": {
+      "name": "Ohio State Buckeyes",
+      "conference": "Big Ten",
+      "ncaa_school": "https://www.ncaa.com/schools/ohio-st",
+      "espn_id": "194",
+      "aliases": [
+        "Ohio St.",
+        "Ohio State",
+        "Ohio State Buckeyes"
+      ]
+    },
+    "oklahoma": {
+      "name": "Oklahoma Sooners",
+      "conference": "SEC",
+      "ncaa_school": "https://www.ncaa.com/schools/oklahoma",
+      "espn_id": "201",
+      "aliases": [
+        "Oklahoma",
+        "Oklahoma Sooners"
+      ]
+    },
+    "oklahoma-st": {
+      "name": "Oklahoma State Cowboys",
+      "conference": "Big 12",
+      "ncaa_school": "https://www.ncaa.com/schools/oklahoma-st",
+      "espn_id": "197",
+      "aliases": [
+        "Oklahoma St",
+        "Oklahoma St.",
+        "Oklahoma State",
+        "Oklahoma State Cowboys"
+      ]
+    },
+    "old-dominion": {
+      "name": "Old Dominion Monarchs",
+      "conference": "Sun Belt",
+      "ncaa_school": "https://www.ncaa.com/schools/old-dominion",
+      "espn_id": "295",
+      "aliases": [
+        "Old Dominion",
+        "Old Dominion Monarchs"
+      ]
+    },
+    "ole-miss": {
+      "name": "Ole Miss Rebels",
+      "conference": "SEC",
+      "ncaa_school": "https://www.ncaa.com/schools/ole-miss",
+      "espn_id": "145",
+      "aliases": [
+        "Ole Miss",
+        "Ole Miss Rebels"
+      ]
+    },
+    "oregon": {
+      "name": "Oregon Ducks",
+      "conference": "Big Ten",
+      "ncaa_school": "https://www.ncaa.com/schools/oregon",
+      "espn_id": "2483",
+      "aliases": [
+        "Oregon",
+        "Oregon Ducks"
+      ]
+    },
+    "oregon-st": {
+      "name": "Oregon State Beavers",
+      "conference": "Pac-12",
+      "ncaa_school": "https://www.ncaa.com/schools/oregon-st",
+      "espn_id": "204",
+      "aliases": [
+        "Oregon St",
+        "Oregon St.",
+        "Oregon State",
+        "Oregon State Beavers"
+      ]
+    },
+    "penn-st": {
+      "name": "Penn State Nittany Lions",
+      "conference": "Big Ten",
+      "ncaa_school": "https://www.ncaa.com/schools/penn-st",
+      "espn_id": "213",
+      "aliases": [
+        "Penn St.",
+        "Penn State",
+        "Penn State Nittany Lions"
+      ]
+    },
+    "pittsburgh": {
+      "name": "Pittsburgh Panthers",
+      "conference": "ACC",
+      "ncaa_school": "https://www.ncaa.com/schools/pittsburgh",
+      "espn_id": "221",
+      "aliases": [
+        "Pitt",
+        "Pittsburgh",
+        "Pittsburgh Panthers"
+      ]
+    },
+    "purdue": {
+      "name": "Purdue Boilermakers",
+      "conference": "Big Ten",
+      "ncaa_school": "https://www.ncaa.com/schools/purdue",
+      "espn_id": "2509",
+      "aliases": [
+        "Purdue",
+        "Purdue Boilermakers"
+      ]
+    },
+    "rice": {
+      "name": "Rice Owls",
+      "conference": "American",
+      "ncaa_school": "https://www.ncaa.com/schools/rice",
+      "espn_id": "242",
+      "aliases": [
+        "Rice",
+        "Rice Owls"
+      ]
+    },
+    "rutgers": {
+      "name": "Rutgers Scarlet Knights",
+      "conference": "Big Ten",
+      "ncaa_school": "https://www.ncaa.com/schools/rutgers",
+      "espn_id": "164",
+      "aliases": [
+        "Rutgers",
+        "Rutgers Scarlet Knights"
+      ]
+    },
+    "sacramento-st": {
+      "name": "Sacramento State Hornets",
+      "conference": "MAC",
+      "ncaa_school": "https://www.ncaa.com/schools/sacramento-st",
+      "espn_id": "16",
+      "aliases": [
+        "Sacramento St",
+        "Sacramento St.",
+        "Sacramento State",
+        "Sacramento State Hornets"
+      ]
+    },
+    "sam-houston-st": {
+      "name": "Sam Houston Bearkats",
+      "conference": "CUSA",
+      "ncaa_school": "https://www.ncaa.com/schools/sam-houston-st",
+      "espn_id": "2534",
+      "aliases": [
+        "Sam Houston",
+        "Sam Houston Bearkats"
+      ]
+    },
+    "san-diego-st": {
+      "name": "San Diego State Aztecs",
+      "conference": "Pac-12",
+      "ncaa_school": "https://www.ncaa.com/schools/san-diego-st",
+      "espn_id": "21",
+      "aliases": [
+        "San Diego St",
+        "San Diego St.",
+        "San Diego State",
+        "San Diego State Aztecs"
+      ]
+    },
+    "san-jose-st": {
+      "name": "San José State Spartans",
+      "conference": "Mountain West",
+      "ncaa_school": "https://www.ncaa.com/schools/san-jose-st",
+      "espn_id": "23",
+      "aliases": [
+        "San Jose St.",
+        "San José St",
+        "San José State",
+        "San José State Spartans"
+      ]
+    },
+    "smu": {
+      "name": "SMU Mustangs",
+      "conference": "ACC",
+      "ncaa_school": "https://www.ncaa.com/schools/smu",
+      "espn_id": "2567",
+      "aliases": [
+        "SMU",
+        "SMU Mustangs"
+      ]
+    },
+    "south-ala": {
+      "name": "South Alabama Jaguars",
+      "conference": "Sun Belt",
+      "ncaa_school": "https://www.ncaa.com/schools/south-ala",
+      "espn_id": "6",
+      "aliases": [
+        "South Alabama",
+        "South Alabama Jaguars"
+      ]
+    },
+    "south-carolina": {
+      "name": "South Carolina Gamecocks",
+      "conference": "SEC",
+      "ncaa_school": "https://www.ncaa.com/schools/south-carolina",
+      "espn_id": "2579",
+      "aliases": [
+        "South Carolina",
+        "South Carolina Gamecocks"
+      ]
+    },
+    "south-fla": {
+      "name": "South Florida Bulls",
+      "conference": "American",
+      "ncaa_school": "https://www.ncaa.com/schools/south-fla",
+      "espn_id": "58",
+      "aliases": [
+        "South Fla.",
+        "South Florida",
+        "South Florida Bulls"
+      ]
+    },
+    "southern-california": {
+      "name": "USC Trojans",
+      "conference": "Big Ten",
+      "ncaa_school": "https://www.ncaa.com/schools/southern-california",
+      "espn_id": "30",
+      "aliases": [
+        "Southern California",
+        "USC",
+        "USC Trojans"
+      ]
+    },
+    "southern-miss": {
+      "name": "Southern Miss Golden Eagles",
+      "conference": "Sun Belt",
+      "ncaa_school": "https://www.ncaa.com/schools/southern-miss",
+      "espn_id": "2572",
+      "aliases": [
+        "Southern Miss",
+        "Southern Miss Golden Eagles",
+        "Southern Miss."
+      ]
+    },
+    "stanford": {
+      "name": "Stanford Cardinal",
+      "conference": "ACC",
+      "ncaa_school": "https://www.ncaa.com/schools/stanford",
+      "espn_id": "24",
+      "aliases": [
+        "Stanford",
+        "Stanford Cardinal"
+      ]
+    },
+    "syracuse": {
+      "name": "Syracuse Orange",
+      "conference": "ACC",
+      "ncaa_school": "https://www.ncaa.com/schools/syracuse",
+      "espn_id": "183",
+      "aliases": [
+        "Syracuse",
+        "Syracuse Orange"
+      ]
+    },
+    "tcu": {
+      "name": "TCU Horned Frogs",
+      "conference": "Big 12",
+      "ncaa_school": "https://www.ncaa.com/schools/tcu",
+      "espn_id": "2628",
+      "aliases": [
+        "TCU",
+        "TCU Horned Frogs"
+      ]
+    },
+    "temple": {
+      "name": "Temple Owls",
+      "conference": "American",
+      "ncaa_school": "https://www.ncaa.com/schools/temple",
+      "espn_id": "218",
+      "aliases": [
+        "Temple",
+        "Temple Owls"
+      ]
+    },
+    "tennessee": {
+      "name": "Tennessee Volunteers",
+      "conference": "SEC",
+      "ncaa_school": "https://www.ncaa.com/schools/tennessee",
+      "espn_id": "2633",
+      "aliases": [
+        "Tennessee",
+        "Tennessee Volunteers"
+      ]
+    },
+    "texas": {
+      "name": "Texas Longhorns",
+      "conference": "SEC",
+      "ncaa_school": "https://www.ncaa.com/schools/texas",
+      "espn_id": "251",
+      "aliases": [
+        "Texas",
+        "Texas Longhorns"
+      ]
+    },
+    "texas-am": {
+      "name": "Texas A&M Aggies",
+      "conference": "SEC",
+      "ncaa_school": "https://www.ncaa.com/schools/texas-am",
+      "espn_id": "245",
+      "aliases": [
+        "Texas A&M",
+        "Texas A&M Aggies"
+      ]
+    },
+    "texas-st": {
+      "name": "Texas State Bobcats",
+      "conference": "Pac-12",
+      "ncaa_school": "https://www.ncaa.com/schools/texas-st",
+      "espn_id": "326",
+      "aliases": [
+        "Texas St",
+        "Texas St.",
+        "Texas State",
+        "Texas State Bobcats"
+      ]
+    },
+    "texas-tech": {
+      "name": "Texas Tech Red Raiders",
+      "conference": "Big 12",
+      "ncaa_school": "https://www.ncaa.com/schools/texas-tech",
+      "espn_id": "2641",
+      "aliases": [
+        "Texas Tech",
+        "Texas Tech Red Raiders"
+      ]
+    },
+    "toledo": {
+      "name": "Toledo Rockets",
+      "conference": "MAC",
+      "ncaa_school": "https://www.ncaa.com/schools/toledo",
+      "espn_id": "2649",
+      "aliases": [
+        "Toledo",
+        "Toledo Rockets"
+      ]
+    },
+    "troy": {
+      "name": "Troy Trojans",
+      "conference": "Sun Belt",
+      "ncaa_school": "https://www.ncaa.com/schools/troy",
+      "espn_id": "2653",
+      "aliases": [
+        "Troy",
+        "Troy Trojans"
+      ]
+    },
+    "tulane": {
+      "name": "Tulane Green Wave",
+      "conference": "American",
+      "ncaa_school": "https://www.ncaa.com/schools/tulane",
+      "espn_id": "2655",
+      "aliases": [
+        "Tulane",
+        "Tulane Green Wave"
+      ]
+    },
+    "tulsa": {
+      "name": "Tulsa Golden Hurricane",
+      "conference": "American",
+      "ncaa_school": "https://www.ncaa.com/schools/tulsa",
+      "espn_id": "202",
+      "aliases": [
+        "Tulsa",
+        "Tulsa Golden Hurricane"
+      ]
+    },
+    "uab": {
+      "name": "UAB Blazers",
+      "conference": "American",
+      "ncaa_school": "https://www.ncaa.com/schools/uab",
+      "espn_id": "5",
+      "aliases": [
+        "UAB",
+        "UAB Blazers"
+      ]
+    },
+    "ucf": {
+      "name": "UCF Knights",
+      "conference": "Big 12",
+      "ncaa_school": "https://www.ncaa.com/schools/ucf",
+      "espn_id": "2116",
+      "aliases": [
+        "UCF",
+        "UCF Knights"
+      ]
+    },
+    "ucla": {
+      "name": "UCLA Bruins",
+      "conference": "Big Ten",
+      "ncaa_school": "https://www.ncaa.com/schools/ucla",
+      "espn_id": "26",
+      "aliases": [
+        "UCLA",
+        "UCLA Bruins"
+      ]
+    },
+    "uconn": {
+      "name": "UConn Huskies",
+      "conference": "FBS Independent",
+      "ncaa_school": "https://www.ncaa.com/schools/uconn",
+      "espn_id": "41",
+      "aliases": [
+        "UConn",
+        "UConn Huskies"
+      ]
+    },
+    "unlv": {
+      "name": "UNLV Rebels",
+      "conference": "Mountain West",
+      "ncaa_school": "https://www.ncaa.com/schools/unlv",
+      "espn_id": "2439",
+      "aliases": [
+        "UNLV",
+        "UNLV Rebels"
+      ]
+    },
+    "utah": {
+      "name": "Utah Utes",
+      "conference": "Big 12",
+      "ncaa_school": "https://www.ncaa.com/schools/utah",
+      "espn_id": "254",
+      "aliases": [
+        "Utah",
+        "Utah Utes"
+      ]
+    },
+    "utah-st": {
+      "name": "Utah State Aggies",
+      "conference": "Pac-12",
+      "ncaa_school": "https://www.ncaa.com/schools/utah-st",
+      "espn_id": "328",
+      "aliases": [
+        "Utah St.",
+        "Utah State",
+        "Utah State Aggies"
+      ]
+    },
+    "utep": {
+      "name": "UTEP Miners",
+      "conference": "Mountain West",
+      "ncaa_school": "https://www.ncaa.com/schools/utep",
+      "espn_id": "2638",
+      "aliases": [
+        "UTEP",
+        "UTEP Miners"
+      ]
+    },
+    "utsa": {
+      "name": "UTSA Roadrunners",
+      "conference": "American",
+      "ncaa_school": "https://www.ncaa.com/schools/utsa",
+      "espn_id": "2636",
+      "aliases": [
+        "UTSA",
+        "UTSA Roadrunners"
+      ]
+    },
+    "vanderbilt": {
+      "name": "Vanderbilt Commodores",
+      "conference": "SEC",
+      "ncaa_school": "https://www.ncaa.com/schools/vanderbilt",
+      "espn_id": "238",
+      "aliases": [
+        "Vanderbilt",
+        "Vanderbilt Commodores"
+      ]
+    },
+    "virginia": {
+      "name": "Virginia Cavaliers",
+      "conference": "ACC",
+      "ncaa_school": "https://www.ncaa.com/schools/virginia",
+      "espn_id": "258",
+      "aliases": [
+        "Virginia",
+        "Virginia Cavaliers"
+      ]
+    },
+    "virginia-tech": {
+      "name": "Virginia Tech Hokies",
+      "conference": "ACC",
+      "ncaa_school": "https://www.ncaa.com/schools/virginia-tech",
+      "espn_id": "259",
+      "aliases": [
+        "Virginia Tech",
+        "Virginia Tech Hokies"
+      ]
+    },
+    "wake-forest": {
+      "name": "Wake Forest Demon Deacons",
+      "conference": "ACC",
+      "ncaa_school": "https://www.ncaa.com/schools/wake-forest",
+      "espn_id": "154",
+      "aliases": [
+        "Wake Forest",
+        "Wake Forest Demon Deacons"
+      ]
+    },
+    "washington": {
+      "name": "Washington Huskies",
+      "conference": "Big Ten",
+      "ncaa_school": "https://www.ncaa.com/schools/washington",
+      "espn_id": "264",
+      "aliases": [
+        "Washington",
+        "Washington Huskies"
+      ]
+    },
+    "washington-st": {
+      "name": "Washington State Cougars",
+      "conference": "Pac-12",
+      "ncaa_school": "https://www.ncaa.com/schools/washington-st",
+      "espn_id": "265",
+      "aliases": [
+        "Washington St",
+        "Washington St.",
+        "Washington State",
+        "Washington State Cougars"
+      ]
+    },
+    "west-virginia": {
+      "name": "West Virginia Mountaineers",
+      "conference": "Big 12",
+      "ncaa_school": "https://www.ncaa.com/schools/west-virginia",
+      "espn_id": "277",
+      "aliases": [
+        "West Virginia",
+        "West Virginia Mountaineers"
+      ]
+    },
+    "western-ky": {
+      "name": "Western Kentucky Hilltoppers",
+      "conference": "CUSA",
+      "ncaa_school": "https://www.ncaa.com/schools/western-ky",
+      "espn_id": "98",
+      "aliases": [
+        "Western KY",
+        "Western Kentucky",
+        "Western Kentucky Hilltoppers",
+        "Western Ky."
+      ]
+    },
+    "western-mich": {
+      "name": "Western Michigan Broncos",
+      "conference": "MAC",
+      "ncaa_school": "https://www.ncaa.com/schools/western-mich",
+      "espn_id": "2711",
+      "aliases": [
+        "W Michigan",
+        "Western Mich.",
+        "Western Michigan",
+        "Western Michigan Broncos"
+      ]
+    },
+    "wisconsin": {
+      "name": "Wisconsin Badgers",
+      "conference": "Big Ten",
+      "ncaa_school": "https://www.ncaa.com/schools/wisconsin",
+      "espn_id": "275",
+      "aliases": [
+        "Wisconsin",
+        "Wisconsin Badgers"
+      ]
+    },
+    "wyoming": {
+      "name": "Wyoming Cowboys",
+      "conference": "Mountain West",
+      "ncaa_school": "https://www.ncaa.com/schools/wyoming",
+      "espn_id": "2751",
+      "aliases": [
+        "Wyoming",
+        "Wyoming Cowboys"
+      ]
+    }
+  }
+}

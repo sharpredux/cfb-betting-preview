@@ -1,0 +1,6 @@
+interface:
+  display_name: "CFB Betting Preview"
+  short_description: "Sourced CFB matchup and betting market analysis"
+  default_prompt: "Use $cfb-betting-preview to preview today’s slate or the matchup I named."
+policy:
+  allow_implicit_invocation: true
